@@ -148,3 +148,6 @@ presentación: SI, se evaluará con el profesor.
 > **La entrega tiene que cumplir las condiciones de entrega para poder ser calificada. En caso de no cumplirlas podría calificarse como no entregada.**
 
 * **Conlleva la entrega de URL a repositorio:** El proyecto se entregará en un repositorio GitHub, trabajando por proyectos y dejando constancia de las acciones realizadas.
+
+
+He añadido la libreria OS para poder limpiar la consola en cada interacción con el programa.
