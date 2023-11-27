@@ -340,6 +340,7 @@ def jugar():
 
                     muestra_estado_mapa(mapa, posicion_jugador)
                     movimiento = pedir_movimiento(mapa)
+                    os.system("clear")  #Función que obtenemos de la libreria os para limpiar la consola
                 else:
                     movimiento = "q"
                     print("Te has rendido")
@@ -348,7 +349,6 @@ def jugar():
                 resultado_movimiento = TESORO_ENCONTRADO
                 print("¡Has encontrado el tesoro y ganado el juego!")
                 imprimir_mapa(mapa)
-            os.system("clear")  #Función que obtenemos de la libreria os para limpiar la consola
 
 if __name__ == "__main__":
     jugar()
