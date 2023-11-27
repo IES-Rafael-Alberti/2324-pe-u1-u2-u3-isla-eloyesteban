@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/STikofyK)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13041881&assignment_repo_type=AssignmentRepo)
 # Actividad: El Juego de la Búsqueda del Tesoro en la Isla
 
 **ID actividad:** pe-Isla-u1u2u3
@@ -146,3 +148,6 @@ presentación: SI, se evaluará con el profesor.
 > **La entrega tiene que cumplir las condiciones de entrega para poder ser calificada. En caso de no cumplirlas podría calificarse como no entregada.**
 
 * **Conlleva la entrega de URL a repositorio:** El proyecto se entregará en un repositorio GitHub, trabajando por proyectos y dejando constancia de las acciones realizadas.
+
+
+He añadido la libreria OS para poder limpiar la consola en cada interacción con el programa.
